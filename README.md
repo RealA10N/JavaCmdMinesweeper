@@ -1,8 +1,6 @@
 # Java CMD Minesweeper
 
-A simple program that lets you play the popular game "Minesweeper" straight from you command line!
-
-Just run the game.java file, or import the Minesweeper.java file, create an object and use the method `play()` to play!
+**A simple program that lets you play the popular game "Minesweeper" straight from you command line!** Just run the `game.java` file, or import the `Minesweeper.java` file, create an object and use the method `play()` to play!
 
 ## Example
 
